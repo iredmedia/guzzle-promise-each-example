@@ -1,0 +1,14 @@
+{
+    "name": "kevinredman/guzzle-promise-each",
+    "require": {
+        "php": "~7.1.0",
+        "ext-json": "*"
+        "guzzlehttp/guzzle": "^6.3",
+    },
+    "authors": [
+        {
+            "name": "Kevin Redman",
+            "email": "iredmedia@gmail.com"
+        }
+    ]
+}
